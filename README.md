@@ -1,7 +1,7 @@
-## Blume Audio
+## Tune-Trace
 Created a user-friendly platform where users can easily upload audio files. The platform automatically converts the audio into written text and generates short summaries. Users receive these summaries conveniently as PDFs via email.
 
-Backend Repository: https://github.com/utkarsh-3112/blume-audio-node
+Backend Repository: https://github.com/utkarsh-3112/tuneTrace-backend
 
 First, run the development server:
 
